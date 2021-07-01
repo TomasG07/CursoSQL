@@ -1,1 +1,0 @@
-Select description,release_year from sakila.film where title= 'IMPACT ALADDIN';
