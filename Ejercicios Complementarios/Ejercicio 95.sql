@@ -1,0 +1,1 @@
+Select * from sakila.actor where first_name="Scarlett";

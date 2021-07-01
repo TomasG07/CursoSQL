@@ -1,0 +1,1 @@
+Select *, char_length(email) as "Tamano de email" from sakila.customer

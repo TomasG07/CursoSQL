@@ -1,0 +1,1 @@
+Select * ,UCASE(city) from sakila.city

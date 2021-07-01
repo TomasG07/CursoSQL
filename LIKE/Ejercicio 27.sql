@@ -1,0 +1,1 @@
+Select * from sakila.actor where first_name like "%a" and last_name like "%n"

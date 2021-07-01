@@ -1,0 +1,1 @@
+Select * from sakila.rental where (customer_id between 300 and 350) and staff_id=1;

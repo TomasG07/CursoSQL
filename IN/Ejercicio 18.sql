@@ -1,0 +1,1 @@
+Select * from sakila.category where name not in ('Action','Animation','Children')
